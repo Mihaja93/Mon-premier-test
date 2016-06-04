@@ -1,0 +1,13 @@
+body
+{
+	background-color:#0040ff;
+	color: white;
+}
+h1
+{
+	position: absolute;
+	width: 100%;
+	font-family: Helvetica;
+	font-size: 100;
+	text-align: center;
+}
